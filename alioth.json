@@ -1,0 +1,17 @@
+{
+	"response": [
+		{
+			"maintainer": "Fenn3x",
+			"oem": "Poco",
+			"device": "Redmi K40/ POCO F3/ Mi 11x",
+			"filename": "PhxOS-Tiramisu-alioth-13.0-20230123-1852-OFFICIAL.zip",
+			"download": "https://transfer.sh/get/DHc5Df/PhxOS-Tiramisu-alioth-13.0-20230123-1852-OFFICIAL.zip",
+			"timestamp": 1674499966,
+			"md5": "53591ae7ed452aa6fb57b66a55ffd412",
+			"sha256": "5cbc7d7e5dd11fc75fdf4e60cb02e26db0da573725324edae618d71ac53ca749",
+			"size": 1650464573,
+			"version": "2.2.4",
+			"buildtype": "Android 13 QPR1 Development"
+		}
+	]
+}
